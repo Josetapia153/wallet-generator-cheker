@@ -6,3 +6,5 @@ int main() {
     cout << "Hello from function MfzCj!" << endl;
     return 0;
 }
+
+
